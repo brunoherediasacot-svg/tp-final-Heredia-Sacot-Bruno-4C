@@ -46,7 +46,7 @@ main {
 section img
 {
     width: 150px;
-    length: 150px;
+    height: 150px;
 }
 .links{
     gap: 20px;
