@@ -48,3 +48,6 @@ section img
     width: 150px;
     length: 150px;
 }
+.links{
+    gap: 20px;
+}
