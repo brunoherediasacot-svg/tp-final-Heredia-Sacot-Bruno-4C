@@ -50,4 +50,5 @@ section img
 }
 .links{
     gap: 20px;
+    display: flex;
 }
